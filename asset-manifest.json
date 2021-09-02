@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://charan-98.github.io/csb-v9lhb/static/css/main.e38bacd2.chunk.css",
-    "main.js": "https://charan-98.github.io/csb-v9lhb/static/js/main.c2ba1a57.chunk.js",
-    "main.js.map": "https://charan-98.github.io/csb-v9lhb/static/js/main.c2ba1a57.chunk.js.map",
+    "main.js": "https://charan-98.github.io/csb-v9lhb/static/js/main.e258d6c8.chunk.js",
+    "main.js.map": "https://charan-98.github.io/csb-v9lhb/static/js/main.e258d6c8.chunk.js.map",
     "runtime-main.js": "https://charan-98.github.io/csb-v9lhb/static/js/runtime-main.cae817d5.js",
     "runtime-main.js.map": "https://charan-98.github.io/csb-v9lhb/static/js/runtime-main.cae817d5.js.map",
-    "static/js/2.26084a2a.chunk.js": "https://charan-98.github.io/csb-v9lhb/static/js/2.26084a2a.chunk.js",
-    "static/js/2.26084a2a.chunk.js.map": "https://charan-98.github.io/csb-v9lhb/static/js/2.26084a2a.chunk.js.map",
+    "static/js/2.712f41f4.chunk.js": "https://charan-98.github.io/csb-v9lhb/static/js/2.712f41f4.chunk.js",
+    "static/js/2.712f41f4.chunk.js.map": "https://charan-98.github.io/csb-v9lhb/static/js/2.712f41f4.chunk.js.map",
     "index.html": "https://charan-98.github.io/csb-v9lhb/index.html",
     "static/css/main.e38bacd2.chunk.css.map": "https://charan-98.github.io/csb-v9lhb/static/css/main.e38bacd2.chunk.css.map",
-    "static/js/2.26084a2a.chunk.js.LICENSE.txt": "https://charan-98.github.io/csb-v9lhb/static/js/2.26084a2a.chunk.js.LICENSE.txt"
+    "static/js/2.712f41f4.chunk.js.LICENSE.txt": "https://charan-98.github.io/csb-v9lhb/static/js/2.712f41f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cae817d5.js",
-    "static/js/2.26084a2a.chunk.js",
+    "static/js/2.712f41f4.chunk.js",
     "static/css/main.e38bacd2.chunk.css",
-    "static/js/main.c2ba1a57.chunk.js"
+    "static/js/main.e258d6c8.chunk.js"
   ]
 }
